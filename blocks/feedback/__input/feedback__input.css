@@ -1,0 +1,9 @@
+.feedback__input {
+  padding: 0;
+  border: 0;
+  width: 200px;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  padding-left: 5px;
+}
