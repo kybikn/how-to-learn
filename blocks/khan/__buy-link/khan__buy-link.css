@@ -5,6 +5,8 @@
   font-weight: 400;
   text-decoration: none;
   color: #2f80ed;
+  -webkit-transition: margin-left linear 2s;
+  -o-transition: margin-left linear 2s;
   transition: margin-left linear 2s;
 }
 

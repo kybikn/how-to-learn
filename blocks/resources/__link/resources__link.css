@@ -1,6 +1,8 @@
 .resources__link {
   width: 270px;
   height: 38px;
+  -webkit-transition: margin-left linear 2s;
+  -o-transition: margin-left linear 2s;
   transition: margin-left linear 2s;
 }
 
